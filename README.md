@@ -25,7 +25,7 @@ ___
 ___
 
 ## Video 2 
-[Conexiones de red](https://github.com/FabianReyna/Taller1/files/6935137/reporte.pdf)
+[Conexiones de red](https://drive.google.com/file/d/1yZhnvwkkPpsWtQgqRJpRyqZm3iIlo6g5/view?usp=sharing)
 
 
 
